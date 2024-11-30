@@ -1,4 +1,4 @@
-# Text_Summarization
+# Text Summarization
  
 Пока что в файле main.py только пример суммаризации на основе cnn модели
 
